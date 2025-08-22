@@ -17,4 +17,4 @@ This script calculates the **sequence length** and **GC content (%)** for each s
 ## ⚙️ Usage
 
 ```bash
-./gc_content_simple.sh input.fasta
+./gc_content_calculator.sh input.fasta
